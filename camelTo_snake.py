@@ -33,7 +33,7 @@ def directoryRead (folderpath) :
             directoryRead(files) #Lists this folder recursively
 
 if len(sys.argv) < 2 :
-    print("I won't guess what file you want me to read dumbass...")
+    print("I won't guess what file you want me to read... Try telling me that with an argument (even if it's \".\")")
     sys.exit(-1)
     
 #Reading the argument as a file or directory
