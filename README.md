@@ -8,10 +8,10 @@ you want to convert as arguments.
 Examples:
 
 	To convert the file file.txt and everything on 2 other folders:
-	`./camelTo_snake /path/to/file.txt /path/to/folder /somewhereElse`
+	./camelTo_snake /path/to/file.txt /path/to/folder /somewhereElse
 
 	To convert everything under your home directory:
-	`python camelTo_snake ~`
+	python camelTo_snake ~
 
 ## Observations ##
 There are no confirmation prompts and it won't smartly ignore anything.
