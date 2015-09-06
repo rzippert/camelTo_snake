@@ -1,4 +1,4 @@
-#!/bin/python2
+#!/bin/python
 ###############################################################
 # Python script that converts camel case expressions to snake #
 # case expressions. Useful for coding but doesn't smartly     #
